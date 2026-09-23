@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(52, 8, 59, 0.4); 
   border-radius: 50% !important;
 }
 
@@ -59,7 +59,7 @@
 }
 
 .angellist {
-  color: grey;
+  color: rgb(255, 255, 255);
 }
 
 .icon-btn:hover {
@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: #510079;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -97,7 +97,7 @@
 
 /* .readme:hover{
   color: white;
-  background-color: #00796b;
+  background-color: #460080;
 } */
 
 .contactme {
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #4b0079;
   background-color: white;
 }
 /* main body */
@@ -136,11 +136,11 @@ body {
 /* main a -- links */
 
 /* a {
-  color: #009688;
+  color: #460080;
 } */
 
 a {
-  color: #004d40;
+  color: #2f004d;
 }
 
 /* main blockqoute */
@@ -155,8 +155,8 @@ a {
 } */
 
 blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
+  border-left: 5px solid #486a79;
+  color: #486a79;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #d4a7ff repeat;
   position: relative;
 }
 
@@ -348,10 +348,10 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #24305e;
+  border-bottom: 5px solid #41245e;
 }
 
-#intro.section .teal {
+#intro.section .purple {
   padding: 0 10px;
 }
 
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #2c004d !important;
 }
 
 #skills .card.large {
@@ -546,25 +546,13 @@ small {
   color: #666 !important;
 }
 
-/* main .teal-text */
-
-.teal-text {
-  color: #008073 !important;
+.purple-text {
+  color: #460080 !important;
 }
 
-/* .teal-text {
-  color: #0b5e86 !important;
-} */
-
-/* .teal */
-
-.teal {
-  background-color: #008073 !important;
+.purple {
+  background-color: #460080 !important;
 }
-
-/* .teal {
-  background-color: #00695c !important;
-} */
 
 @media (min-width: 1200px) {
   #experience .container {
@@ -602,7 +590,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #500096;
     height: 56px;
     line-height: 56px;
   }
