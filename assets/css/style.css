@@ -119,6 +119,27 @@
   color: #4b0079;
   background-color: white;
 }
+
+.load-more-wrap {
+  margin: -20px 0 40px;
+}
+
+.load-more {
+  padding: 11px 35px;
+  background: #460080;
+  color: #fff;
+  border: 2px solid #460080;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 1px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.load-more:hover {
+  background: #2f004d;
+  border-color: #2f004d;
+}
 /* main body */
 
 /* body-color */
